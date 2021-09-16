@@ -26,3 +26,16 @@
 .txtt{
     color: #fff;
 }
+.txtt h3{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+.txtt h1{
+    font-size: 72px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+.heros{
+    align-items: center;
+}
