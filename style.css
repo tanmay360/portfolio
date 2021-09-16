@@ -39,3 +39,29 @@
 .heros{
     align-items: center;
 }
+.btn-cva{
+    border: none;
+    background-color: #f66200;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+.btn-cva a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700px;
+}
+.btn-cvb{
+    border: none;
+    background-color: #03286f;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+.btn-cvb a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700px;
+}
