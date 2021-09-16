@@ -6,8 +6,9 @@
 .bg-lightt {
     background-color: #F0F8FF!important;
 }
+/*Nav Bar CSS Started*/
  .navbar .navbar-nav .nav-item .nav-link {
-    color: #2a2a2a;
+    color: #202020;
     margin: 0 20px;
     font-size: 15px;
     font-weight: 600;
@@ -20,6 +21,8 @@
 .navbar-expand-lg .navbar-collapse{
     margin-left: 28%;
 }
+/*Nav Bar CSS Finished*/
+/*Hero Section CSS Started*/
 .bg-cus{
     background-color: #2a2a2a;
 }
@@ -53,7 +56,7 @@
     font-weight: 700px;
 }
 .btn-cvb{
-    border: none;
+    border: 0px;
     background-color: #03286f;
     padding: 10px 20px;
     border-radius: 25px;
@@ -64,4 +67,50 @@
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700px;
+}
+.btn-cvb:hover{
+    background-color: #202020;
+    border: solid 3px #03286f;
+}
+.btn-cvb a:hover{
+    color: #fff;
+}
+.btn-cva a:hover{
+    color: white;
+}
+.btn-cva:hover{
+background-color: #2B2B2B;
+border: solid 3px #f66200 ;
+    }
+.cta{
+    padding-top: 10px;
+}
+/*Hero Section CSS Finsihed*/
+
+/*About Section CSS Started*/
+.about-me{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.about-me h1{
+    font-weight: 700;
+}
+.about-me p{
+    font-size: 17px;
+    margin: 0 60px;
+}
+.about-sec{
+    align-items: center;
+    padding: 50px 50px;
+}
+.about-sec .about-img{
+    margin-top: 70px;
+}
+.about-sec p{
+    font-size: 18px;
+}
+/*About Section CSS Finished*/
+.what-i-do{
+    text-align: center;
 }
