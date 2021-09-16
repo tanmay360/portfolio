@@ -113,4 +113,21 @@ border: solid 3px #f66200 ;
 /*About Section CSS Finished*/
 .what-i-do{
     text-align: center;
+    color: #fff;
+}
+.what-do{
+    padding: 50px 50px;
+    background-color: #202020;
+}
+.what-i-do h1{
+    font-weight: 700px;
+    font-family: 'Montserrat', sans-serif;
+}
+.icon-boxx{
+    border: solid 1px #F0F8FF;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 50px;
+    padding: 60px 0px;
+    color: #fff;
 }
